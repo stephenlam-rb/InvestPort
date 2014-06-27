@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="hk.com.redbrick.investport" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>InvestPort</name>
+    <description>
+        A simple app to help tracking your investment portfolio performance.
+    </description>
+    <author email="enquiry@redbrick.com.hk" href="http://www.redbrick.com.hk">
+        Red Brick | Hong Kong
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+	<preference name="orientation" value="portrait" />
+	<preference name="fullscreen" value="true" />
+	<preference name="DisallowOverscroll" value="true"/>
+	<preference name="HideKeyboardFormAccessoryBar" value="true"/>
+</widget>
